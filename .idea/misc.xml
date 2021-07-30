@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AG/TunaTest/app/src/main/res/drawable/bg_date_label.xml" value="0.2203125" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/drawable/bg_date_label_filled.xml" value="0.2203125" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/drawable/bg_date_label_stroked.xml" value="0.2203125" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/drawable/button_schedule.xml" value="0.2203125" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/activity_appointment.xml" value="0.20416666666666666" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/activity_register_device.xml" value="0.20416666666666666" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/dialog_appointment_success.xml" value="0.18840579710144928" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/layout_lottie_loader_dialog.xml" value="0.17753623188405798" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/row_appointment_dates.xml" value="0.20416666666666666" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/row_appointment_list.xml" value="0.1" />
+        <entry key="..\:/AG/TunaTest/app/src/main/res/layout/row_date_list.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

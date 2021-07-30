@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TunaTest</string>
+
+    <string name="text_schedule_appointment">Schedule Appointment</string>
+    <string name="text_sub_title_appointment">Appointment with budista</string>
+    <string name="text_button_schedule">Schedule</string>
+    <string name="text_choose_time_slot">Choose Timeslot</string>
+    <string name="text_select_time">Select Time</string>
+</resources>

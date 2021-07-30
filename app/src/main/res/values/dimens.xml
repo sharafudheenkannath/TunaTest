@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_button_schedule">10dp</dimen>
+    <dimen name="margin_horizontal_content_appointment_screen">15dp</dimen>
+    <dimen name="text_size_schedule_appointment">18sp</dimen>
+    <dimen name="text_size_sub_title_appointment">16sp</dimen>
+    <dimen name="text_size_date_label_date_list_row">14sp</dimen>
+    <dimen name="radius_label_date_stroked">16dp</dimen>
+    <dimen name="height_label_date">70dp</dimen>
+    <dimen name="width_label_date">45dp</dimen>
+    <dimen name="margin_horizontal_content_register_device">20dp</dimen>
+    <dimen name="padding_vertical_date_list_row">14dp</dimen>
+
+</resources>
